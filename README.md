@@ -9,7 +9,7 @@
 
 A **Passionate Full-Stack Developer** with 5+ years of experience in web and desktop development 🚀
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBqYXE0MTQwdjdneTVjZXFsaG5vNGI3eTU0Y2E3d3BkeHJ4cWdwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 
 **About Me**
 
@@ -32,12 +32,5 @@ A **Passionate Full-Stack Developer** with 5+ years of experience in web and des
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
 
-**GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=JuanCalderonDev&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Juan's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCalderonDev&count_private=true&theme=radical" alt="JuanCalderonDev" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCalderonDev&count_private=true&theme=radical" alt="JuanCalderonDev" />
-
----
 
 _Thanks for visiting my profile! Feel free to connect or collaborate on exciting new projects._
